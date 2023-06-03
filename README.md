@@ -29,8 +29,8 @@ Step 7: Save and run the application.
  ```
 /*
 Program to develop personal information for student
-Developed by: V A Jithendra
-RegisterNumber:  212221230043
+Developed by: Naveen kumar A
+RegisterNumber:  212221240032
 */
 ```
 
